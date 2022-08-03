@@ -4,14 +4,14 @@ My name is Kristina. I am a Full Stack Software Engineer. A background in Scienc
 
 My interests include DevOps, web design, and technology. My passion for coding, learning, growth, and success encourages me to continuously expand my skill set through new technologies. I am looking forward to learning about and creating meaningful applications!
 
-- 🌱 I’m currently learning [JavaScript Algorithms and Data Structures](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
-- 🛠 I'm looking forward to learning Python and TypeScript.
+- 🌱 I’m currently learning [Python](https://www.udemy.com/courses/search/?src=ukw&q=pyhton)
+- 🛠 I'm looking forward to learning TypeScript.
 - 📫 How to reach me: krissy.germanov@gmail.com
-- 📝 [Resume](https://github.com/opomeroy26/opomeroy26/files/8781384/Olivia.Pomeroy.s.Resume.3.docx)
+- 📝 [Resume](https://drive.google.com/file/d/1X2lBRerNSmJQDUOArG_SXxBczQ2R7QwJ/view?usp=sharing)
 - ⭐︎ [Portfolio](https://peru-portfolio.herokuapp.com/)
 
 
-Skills: JavaScript / React / Ruby / Rails / ActiveRecord/ SQL / PostgreSQL/ HTML / CSS / Bootstrap / Semantic UI / Git / Heroku 
+Skills: JavaScript / React / Ruby / Rails / ActiveRecord / SQL / PostgreSQL/ HTML / CSS / Bootstrap / Semantic UI / Git / Heroku 
 
 
 
