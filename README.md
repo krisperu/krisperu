@@ -7,8 +7,7 @@ My interests include DevOps, web design, and technology. My passion for coding, 
 - 🌱 I’m currently learning [Python](https://www.udemy.com/courses/search/?src=ukw&q=pyhton)
 - 🛠 I'm looking forward to learning TypeScript.
 - 📫 How to reach me: krissy.germanov@gmail.com
-- 📝 [Resume](https://drive.google.com/file/d/1X2lBRerNSmJQDUOArG_SXxBczQ2R7QwJ/view?usp=sharing)
-- ⭐︎ [Portfolio](https://peru-portfolio.herokuapp.com/)
+- 📝 [Resume](https://drive.google.com/file/d/13T5BgV6c9sA28nCcEbsi8rsibPoqAOgU/view?usp=share_link)
 
 
 Skills: JavaScript / React / Ruby / Rails / ActiveRecord / SQL / PostgreSQL/ HTML / CSS / Bootstrap / Semantic UI / Git / Heroku 
